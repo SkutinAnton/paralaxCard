@@ -1,0 +1,7 @@
+img {
+  border-radius: 14px;
+  width: 300px;
+  margin: 80px;
+  box-shadow: 0px 0px 30px 0px #000000ab;
+  transform: rotateX(0deg) rotateY(0deg);
+}
